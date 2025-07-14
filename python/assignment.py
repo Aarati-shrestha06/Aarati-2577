@@ -4,7 +4,7 @@ num = int(input("Enter a number to check even or odd: "))
 if num % 2 == 0:
     print("thenumber you have enterd is even")
 else:
-    print("the number you have entered is odd")
+    print("the number you have entered is odd") 
 
 
 # 2. Write a program to count the number of vowels in a given string.
